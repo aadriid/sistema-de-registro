@@ -2,3 +2,5 @@
 - Estado de proyecto: En construccion.
 para ejecura el sistema debes, poner :
 '''npm install react'''
+
+sistema de registro 2 
